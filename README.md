@@ -4,6 +4,4 @@ In this project I've tried to do image classification program for bears and snai
 
 ## Program
 
-## Installation
-
 Check the code for images and further explanation.
